@@ -20,4 +20,4 @@ Bar graph created using Excel file:
 
 Example of mail that will contain the pdf that contains dataset and chart:
 
-![image](https://user-images.githubusercontent.com/88025966/127805742-d4ae866a-5e0d-4037-b55d-768a06167ec1.png)
+![image](https://user-images.githubusercontent.com/88025966/127806717-7c0a5150-f58d-4528-ad02-1760b50318e7.png)
