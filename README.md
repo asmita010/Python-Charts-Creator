@@ -1,9 +1,10 @@
 # Python-Charts-Creator
-The Charts Creator is the python application to create charts by entering the data manually or in excel format. Available types of graph are Line Graph, Bar Graph, Histogram, Pie Chart and Scatter Plot. User can select different markers, line styles, colors to customize those graphs. User can download and mail the charts using gmail. It will contain the pdf that contains the dataset and chart used for future reference.
+The Charts Creator is the python application to create charts by entering the data manually or in excel format. Available types of graph are Line Graph, Bar Graph, Histogram, Pie Chart and Scatter Plot. User can select different markers, line styles, colors and legends to customize those graphs. User can download and mail the charts using gmail. It will contain the pdf that contains the dataset and chart used for future reference.
 Techologies Used-Pycharm(Python IDLE), Mysql(Database).
 Python libraries used- Tkinter, Matplotlib, Numpy, Mysqldb, Smtplib, Reportlab.
 
 Implementation-
+
 
 Manual Input for Bar Graph:
 
